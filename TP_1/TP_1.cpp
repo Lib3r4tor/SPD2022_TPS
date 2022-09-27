@@ -6,7 +6,6 @@
  *	de acuerdo al numero que representan.
  *
  *	Ejemplo:
- *   
  *	El numero 15 (0000001111) se representaria encendiendo los 
  *	leds AMARILLO y NARANJA.
  *	Al pasar al numero 16 (0000010000), se deben apagar todos 
